@@ -6,4 +6,9 @@ Materials Research Society 2019 - Boston, MA
   - Session Date: December 3, 2019
   - Session Type: Oral
   - Presentation Time: 11:15 AM to 11:45 AM
-  - python [[code]](https://github.com/CameraIA/dipmicroct/tree/master/partII)
+## Code/sofware:  
+- F3D [[python/OpenCL]](https://github.com/dani-lbnl/pyF3D)
+- Fiber benchmarking [[python]](https://github.com/s-miramontes/ImageXD2019)
+- Image search with pyCBIR [[python]](https://github.com/xdatacnn/imagesearch)
+- Microct analysis [[python]](https://github.com/CameraIA/dipmicroct/tree/master/partII)
+- X-ray Serial Crystallography for Bragg spot detection [[python]](https://github.com/dani-lbnl/CNN_BraggSpot)

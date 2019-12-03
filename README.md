@@ -12,3 +12,6 @@ Materials Research Society 2019 - Boston, MA
 - Image search with pyCBIR [[python]](https://github.com/xdatacnn/imagesearch)
 - Microct analysis [[python]](https://github.com/CameraIA/dipmicroct/tree/master/partII)
 - X-ray Serial Crystallography for Bragg spot detection [[python]](https://github.com/dani-lbnl/CNN_BraggSpot)
+
+## Need some ground-work?
+- Software carpentry [[link]](https://software-carpentry.org/) - digital literacy in data science

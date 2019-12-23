@@ -1,7 +1,7 @@
 # MRS 2019
 Materials Research Society 2019 - Boston, MA
 
-  - Title: Microstructural Analysis in Python for Materials Data Science
+  - Title: Microstructural Analysis in Python for Materials Data Science [[pdf]](DaniUshizima_MRS2019.pdf)
   - Presenter: Daniela Ushizima
   - Session Date: December 3, 2019
   - Session Type: Oral
